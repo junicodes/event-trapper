@@ -31,8 +31,8 @@ class QrReaderPage extends Component {
 
         <style jsx>{`
           .container {
-            width: 30%;
-            heigth: 30px;
+            width: 50%;
+            heigth: 100%;
             margin: auto;
             margin-top: 100px;
           }
